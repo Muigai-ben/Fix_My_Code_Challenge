@@ -1,1 +1,1 @@
-working on fizzBuzz
+working on fizzBuzz the solutions
